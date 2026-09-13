@@ -38,7 +38,7 @@ Built entirely in Excel using:
 
 ![Zone Average Comparison](visuals/zone_average_comparison.png)
 
-![Smallest MoM Increases](visuals/smallest_mom_increases.png)
+![Smallest MoM Increases](visuals/top5_mom_decreasing.png) 
 
 ## Project Structure
 
